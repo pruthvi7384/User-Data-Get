@@ -36,6 +36,7 @@
     text-align: center;
     border-radius: 18px;
     background-color: yellowgreen;
+    cursor: pointer;
 }
 .profile img{
   border-radius: 50%;
